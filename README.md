@@ -4,7 +4,7 @@ A command-line utility that helps you backup and restore PyCharm project configu
 
 ## Overview
 
-This tool solves the problem of preserving your PyCharm settings and configurations across multiple machines or when reinstalling your development environment. It targets the `.idea` directories, recent projects lists, and global IDE settings files that aren't typically included in version control.
+This tool solves the problem of preserving your PyCharm settings and configurations across multiple machines, when upgrading or reinstalling your development environment. It targets the `.idea` directories, recent projects lists, and global IDE settings files that aren't typically included in version control.
 
 ## Features
 
